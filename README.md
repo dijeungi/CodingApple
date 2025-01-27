@@ -17,7 +17,8 @@
 
 - **All-in-One HTML/CSS**: 웹 페이지의 구조와 스타일을 정의하는 기본 기술로, 모든 웹 개발의 기초입니다.
 
-- **Node.js + MongoDB**: JavaScript 런타임 환경인 Node.js와 NoSQL 데이터베이스인 MongoDB를 활용하여 서버 사이드 개발을 합니다.
+- **Node.js + MongoDB**: JavaScript 런타임 환경인 Node.js와 NoSQL 데이터베이스인
+MongoDB를 활용하여 서버 사이드 개발을 합니다.
 
 - **Vue**: 진보적인 JavaScript 프레임워크로, 사용자 인터페이스 구축에 적합합니다.
 
